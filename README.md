@@ -38,6 +38,8 @@ Instale as dependências:
 
 
 npm install
+
+
 Configure o banco de dados:
 
 Se estiver utilizando SQLite, certifique-se de que o banco de dados esteja corretamente inicializado no projeto.
