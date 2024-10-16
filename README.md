@@ -1,4 +1,5 @@
 Aplicação de Lista de Tarefas (To-do List)
+
 Este projeto é uma aplicação web de Lista de Tarefas (To-do List), que permite aos usuários criar, ler, atualizar e excluir (CRUD) tarefas. O backend é construído com Node.js, usando o framework Express para lidar com requisições HTTP, e um banco de dados SQL (como SQLite ou MySQL) para armazenar as tarefas. O frontend é desenvolvido com HTML, CSS e JavaScript, proporcionando uma interface de usuário simples e responsiva.
 
 Funcionalidades
